@@ -1,0 +1,4 @@
+gcc -Wall -o "test01hello" "test01hello.c"
+ >> 빌드 : 터미널에서 입력
+
+
